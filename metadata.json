@@ -1,0 +1,6 @@
+{
+  "name": "V-Mart",
+  "description": "Simple, clean, and modern grocery ordering, delivery tracking, and payment management for shop owners and customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

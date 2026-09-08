@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">V-Mart</string>
+    <string name="store_tagline">Fresh Groceries &amp; Daily Essentials</string>
+    <string name="customer_store">Customer Store</string>
+    <string name="shop_owner_hub">Owner Hub</string>
+    <string name="search_hint">Search fruits, veggies, milk, staples...</string>
+    <string name="all_categories">All</string>
+    <string name="free_delivery_banner">Free Delivery on orders above $30</string>
+    <string name="add_to_cart">Add</string>
+    <string name="in_stock">In Stock</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="view_cart">View Cart</string>
+    <string name="checkout_title">Grocery Cart &amp; Checkout</string>
+    <string name="delivery_details_title">Delivery Details</string>
+    <string name="payment_method_title">Payment Option</string>
+    <string name="place_order">Place Grocery Order</string>
+    <string name="mark_paid">Mark Payment Received</string>
+    <string name="mark_delivered">Mark Delivered</string>
+    <string name="mark_out_for_delivery">Send Out for Delivery</string>
+    <string name="add_product">Add Grocery Item</string>
+</resources>
